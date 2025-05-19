@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @Nikitajain121
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning data science...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me nikitajain.jain1111@gmail.com...
+👋 Hi there, I’m @Nikitajain121
+🎓 Master's in Data Science (Distinction) | Banasthali Vidyapith
 
-<!---
-Nikitajain121/Nikitajain121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💼 Associate Software Engineer at Accenture with 1 year of industry experience
+
+🔍 Passionate about Data Science, Machine Learning, and Generative AI
+
+🛠️ Built projects using RASA, LlamaIndex, and Azure Data Services
+
+🤝 Open to collaborations on AI-powered chatbots, data-driven solutions, and open-source projects
+
+📫 Let’s connect: nikitajain.jain1111@gmail.com
